@@ -41,10 +41,8 @@ Let's start by creating a configuration file...
   > Learn more about the configuration options at https://github.com/Accenture/bdd-for-all/blob/develop/docs/CONFIGURATION.md
 * Next, we let's create a sample feature file called `Sample.feature`
   ```gherkin
-  @BasicSteps @Smoke @Regression
   Feature: Testing out the basic step definitions for JSON
   
-    @Overides @Json @RemoteServer
     Scenario: Domain override (BS1)
       Given I am a JSON API consumer
         And I am executing test "BS1"

@@ -1,11 +1,7 @@
-bddcore {
+Feature: Testing out the basic step definitions for JSON
 
-  request {
-
-    server {
-      host = "http://www.example.com"
-    }
-
-  }
-
-}
+  Scenario: Domain override (BS1)
+    Given I am a JSON API consumer
+      And I am executing test "BS1"
+     When I request GET "/"
+     Then I should get a status code of 200
