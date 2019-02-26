@@ -1,0 +1,25 @@
+{
+  "bin": {
+    "bdd-for-all": "jdeploy-bundle/jdeploy.js"
+  },
+  "author": "Mike Parcewski",
+  "description": "Node Wrapper for BDD For All - https://github.com/Accenture/bdd-for-all",
+  "main": "index.js",
+  "preferGlobal": true,
+  "repository": "",
+  "version": "1.0.0",
+  "jdeploy": {
+    "jar": "bdd-for-all-1.0.0.jar"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.5"
+  },
+  "license": "ISC",
+  "name": "bdd-for-all",
+  "files": [
+    "jdeploy-bundle"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
