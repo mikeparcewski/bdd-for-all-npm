@@ -4,10 +4,17 @@
   },
   "author": "Mike Parcewski",
   "description": "Node Wrapper for BDD For All - https://github.com/Accenture/bdd-for-all",
+  "homepage": "https://github.com/mikeparcewski/bdd-for-all-npm",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://opensource.org/licenses/apache2.0.php"
+    }
+  ],
   "main": "index.js",
   "preferGlobal": true,
   "repository": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "jdeploy": {
     "jar": "bdd-for-all-1.0.0.jar"
   },
