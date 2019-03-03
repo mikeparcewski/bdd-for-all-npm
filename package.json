@@ -14,9 +14,9 @@
   "main": "index.js",
   "preferGlobal": true,
   "repository": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "jdeploy": {
-    "jar": "bdd-for-all-1.0.0.jar"
+    "jar": "bdd-for-all-1.0.2.jar"
   },
   "dependencies": {
     "shelljs": "^0.7.5"

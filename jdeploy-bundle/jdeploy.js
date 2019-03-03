@@ -65,7 +65,7 @@ function getJdeploySupportDir() {
 var fs = require('fs');
 var os = require('os');
 var path = require('path');
-var jarName = "bdd-for-all-1.0.0.jar";
+var jarName = "bdd-for-all-1.0.2.jar";
 var mainClass = "{{MAIN_CLASS}}";
 var classPath = "{{CLASSPATH}}";
 var port = "0";
