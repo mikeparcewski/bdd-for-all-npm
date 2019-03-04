@@ -14,7 +14,7 @@
   "main": "index.js",
   "preferGlobal": true,
   "repository": "",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "jdeploy": {
     "jar": "bdd-for-all-1.0.2.jar"
   },
@@ -29,5 +29,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ "bdd", "api", "testing", "automation", "rest", "soap", "cucumber", "gherkin", "json", "http", "tdd" ]
+  "keywords": [
+    "bdd",
+    "api",
+    "testing",
+    "automation",
+    "rest",
+    "soap",
+    "cucumber",
+    "gherkin",
+    "json",
+    "http",
+    "tdd"
+  ]
 }
