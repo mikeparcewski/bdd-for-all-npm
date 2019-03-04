@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/bdd-for-all.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bdd-for-all/)
+
 # BDD For All NPM Wrapper
 
 This is a simple NPM wrapper for the [BDD For All](https://github.com/Accenture/bdd-for-all) library, while we work on a NodeJS port.
