@@ -28,5 +28,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "keywords": [ "bdd", "api", "testing", "automation", "rest", "soap", "cucumber", "gherkin", "json", "http", "tdd" ]
 }
