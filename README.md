@@ -27,7 +27,7 @@ This program requires a base configuration file and feature file(s) at a minimum
 Let's start by creating a configuration file...
 
 * Create a file called `Sample.conf` and paste the following.  This provides the URL you'll be hitting for your tests...
-  ```json
+  ```scala
   bddcore {
   
     request {
