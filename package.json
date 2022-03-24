@@ -19,7 +19,7 @@
     "jar": "bdd-for-all-1.0.2.jar"
   },
   "dependencies": {
-    "shelljs": "^0.7.5"
+    "shelljs": "^0.8.5"
   },
   "license": "ISC",
   "name": "bdd-for-all",
